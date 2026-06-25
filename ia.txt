@@ -1,0 +1,9 @@
+----------------
+Etapa 1:
+Creación del archivo album mundial 2026, utilizando react y vite.
+------------------------
+Resultado: Esta etapa no la realice con IA, en lo cual fue llevado a cabo con los comandos dados para crear el
+inicio de nuestro album mundial 2026, la utilidad de esta es muy util ya que es el inicio y la base del
+proyecto, en la cual tuve que crear el archivo de data y sticker.js (en lo cual introduje los stickers 
+del album)
+------------------------
